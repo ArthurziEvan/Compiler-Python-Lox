@@ -61,6 +61,7 @@ Executa a AST gerada pelo parser e vê expressões, produzindo resultado
 ### `main.py`
 
 Ponto de entrada do sistema, responsável por integrar todas as etapas leitura do código, geração de tokens, parsing e execução
+
 ---
 
 ### ▶️ 4. Executar o interpretador
