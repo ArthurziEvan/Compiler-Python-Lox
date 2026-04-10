@@ -6,6 +6,8 @@ Utiliza a linguagem de programação Python, para interpretar LOX
 ## 💡 Objetivo
 
 Desenvolver um interpretador da linguagem Lox em Python, com foco educacional, demonstrando na prática os conceitos fundamentais de compiladores, como análise léxica e análise sintática 
+
+
 ---
 
 ## 💡 Descrição do Projeto
